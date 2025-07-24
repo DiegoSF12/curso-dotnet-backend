@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend.csproj": {}
+    "/home/diego/Documentos/Projetos/curso-dotnet-backend/curso-dotnet-backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend.csproj": {
+    "/home/diego/Documentos/Projetos/curso-dotnet-backend/curso-dotnet-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend.csproj",
+        "projectUniqueName": "/home/diego/Documentos/Projetos/curso-dotnet-backend/curso-dotnet-backend.csproj",
         "projectName": "curso-dotnet-backend",
-        "projectPath": "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend.csproj",
-        "packagesPath": "C:\\Users\\TI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\obj\\",
+        "projectPath": "/home/diego/Documentos/Projetos/curso-dotnet-backend/curso-dotnet-backend.csproj",
+        "packagesPath": "/home/diego/.nuget/packages/",
+        "outputPath": "/home/diego/Documentos/Projetos/curso-dotnet-backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/diego/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
