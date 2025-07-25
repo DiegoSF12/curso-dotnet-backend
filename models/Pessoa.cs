@@ -18,7 +18,7 @@ namespace curso_dotnet_backend.models
 
         public void Apresentar()
         {
-            Console.WriteLine($"Olá! Eu me chamo {Nome},\n e tenho {Idade} anos.");
+            Console.WriteLine($"Olá! Eu me chamo {Nome}, e tenho {Idade} anos.");
         }
         public void setNome(string Nome)
         {
