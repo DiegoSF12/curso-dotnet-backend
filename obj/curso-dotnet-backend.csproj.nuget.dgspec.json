@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lordg\\OneDrive\\Documentos\\Arquivos T.I\\curso-dotnet-backend\\curso-dotnet-backend.csproj": {}
+    "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lordg\\OneDrive\\Documentos\\Arquivos T.I\\curso-dotnet-backend\\curso-dotnet-backend.csproj": {
+    "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lordg\\OneDrive\\Documentos\\Arquivos T.I\\curso-dotnet-backend\\curso-dotnet-backend.csproj",
+        "projectUniqueName": "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend.csproj",
         "projectName": "curso-dotnet-backend",
-        "projectPath": "C:\\Users\\lordg\\OneDrive\\Documentos\\Arquivos T.I\\curso-dotnet-backend\\curso-dotnet-backend.csproj",
-        "packagesPath": "C:\\Users\\lordg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lordg\\OneDrive\\Documentos\\Arquivos T.I\\curso-dotnet-backend\\obj\\",
+        "projectPath": "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend.csproj",
+        "packagesPath": "C:\\Users\\TI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lordg\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\TI\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
