@@ -1,30 +1,15 @@
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.AssemblyInfoInputs.cache
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.AssemblyInfo.cs
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.csproj.CoreCompileInputs.cache
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.sourcelink.json
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\bin\Debug\net8.0\curso-dotnet-backend.exe
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\bin\Debug\net8.0\curso-dotnet-backend.deps.json
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\bin\Debug\net8.0\curso-dotnet-backend.runtimeconfig.json
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\bin\Debug\net8.0\curso-dotnet-backend.dll
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\bin\Debug\net8.0\curso-dotnet-backend.pdb
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.dll
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\obj\Debug\net8.0\refint\curso-dotnet-backend.dll
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.pdb
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.genruntimeconfig.cache
-C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\obj\Debug\net8.0\ref\curso-dotnet-backend.dll
-c:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.AssemblyInfoInputs.cache
-c:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.AssemblyInfo.cs
-c:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.csproj.CoreCompileInputs.cache
-c:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.sourcelink.json
-c:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.dll
-c:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\refint\curso-dotnet-backend.dll
-c:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.pdb
-c:\Users\TI\Documents\Diego\curso-dotnet-backend\bin\Debug\net8.0\curso-dotnet-backend.exe
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\bin\Debug\net8.0\curso-dotnet-backend.exe
 C:\Users\TI\Documents\Diego\curso-dotnet-backend\bin\Debug\net8.0\curso-dotnet-backend.deps.json
 C:\Users\TI\Documents\Diego\curso-dotnet-backend\bin\Debug\net8.0\curso-dotnet-backend.runtimeconfig.json
-c:\Users\TI\Documents\Diego\curso-dotnet-backend\bin\Debug\net8.0\curso-dotnet-backend.dll
-c:\Users\TI\Documents\Diego\curso-dotnet-backend\bin\Debug\net8.0\curso-dotnet-backend.pdb
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\bin\Debug\net8.0\curso-dotnet-backend.dll
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\bin\Debug\net8.0\curso-dotnet-backend.pdb
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.AssemblyInfoInputs.cache
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.AssemblyInfo.cs
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.csproj.CoreCompileInputs.cache
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.sourcelink.json
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.dll
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\refint\curso-dotnet-backend.dll
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.pdb
 C:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.genruntimeconfig.cache
 C:\Users\TI\Documents\Diego\curso-dotnet-backend\obj\Debug\net8.0\ref\curso-dotnet-backend.dll
