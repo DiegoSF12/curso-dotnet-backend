@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -9,8 +9,11 @@ namespace curso_dotnet_backend
     public class Program
     {
         public static void Main(String[] args)
-        {   
-            Calculadora.Soma();
+        {
+            Calculadora.Seno();
+            Calculadora.Coseno();
+            Calculadora.Tangente();
+            //Interface.MenuIniciar();
         }
     }
 }
