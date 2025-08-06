@@ -10,10 +10,7 @@ namespace curso_dotnet_backend
     {
         public static void Main(String[] args)
         {
-            Calculadora.Seno();
-            Calculadora.Coseno();
-            Calculadora.Tangente();
-            //Interface.MenuIniciar();
+            Interface.MenuIniciar();
         }
     }
 }
