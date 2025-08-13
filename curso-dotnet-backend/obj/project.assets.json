@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "curso-dotnet-backend.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/curso-dotnet-backend.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/curso-dotnet-backend.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "curso-dotnet-backend.Common/1.0.0": {
+      "type": "project",
+      "path": "../curso-dotnet-backend.Common/curso-dotnet-backend.Common.csproj",
+      "msbuildProject": "../curso-dotnet-backend.Common/curso-dotnet-backend.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "curso-dotnet-backend.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\TI\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend.csproj",
+      "projectUniqueName": "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend\\curso-dotnet-backend.csproj",
       "projectName": "curso-dotnet-backend",
-      "projectPath": "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend.csproj",
+      "projectPath": "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend\\curso-dotnet-backend.csproj",
       "packagesPath": "C:\\Users\\TI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\obj\\",
+      "outputPath": "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TI\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -31,7 +50,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend.Common\\curso-dotnet-backend.Common.csproj": {
+              "projectPath": "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend.Common\\curso-dotnet-backend.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

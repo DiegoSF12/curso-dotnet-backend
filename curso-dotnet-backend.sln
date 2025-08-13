@@ -1,8 +1,10 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "curso-dotnet-backend", "curso-dotnet-backend.csproj", "{D61EB0FD-1AA0-AF6B-0012-BB100D2F4DD7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "curso-dotnet-backend", "curso-dotnet-backend\curso-dotnet-backend.csproj", "{D61EB0FD-1AA0-AF6B-0012-BB100D2F4DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "curso-dotnet-backend.Common", "curso-dotnet-backend.Common\curso-dotnet-backend.Common.csproj", "{5014130C-75F5-4B3F-BAB0-57631E93F5BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,6 +16,10 @@ Global
 		{D61EB0FD-1AA0-AF6B-0012-BB100D2F4DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D61EB0FD-1AA0-AF6B-0012-BB100D2F4DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D61EB0FD-1AA0-AF6B-0012-BB100D2F4DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5014130C-75F5-4B3F-BAB0-57631E93F5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5014130C-75F5-4B3F-BAB0-57631E93F5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5014130C-75F5-4B3F-BAB0-57631E93F5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5014130C-75F5-4B3F-BAB0-57631E93F5BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
