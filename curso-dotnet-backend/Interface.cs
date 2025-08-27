@@ -17,7 +17,6 @@ namespace curso_dotnet_backend
             int op = -1;
             while (op != 0)
             {   
-                Console.Clear();
                 Console.WriteLine("Por favor, escolha uma das opções abaixo");
                 Console.WriteLine("1 - Somar dois numeros");
                 Console.WriteLine("2 - Subtrair dois numeros");
@@ -25,8 +24,7 @@ namespace curso_dotnet_backend
                 Console.WriteLine("4 - Dividir dois numeros");
                 Console.WriteLine("5 - Calculos Trigonométricos");
                 Console.WriteLine("0 - SAIR");
-                string op2 = Console.ReadLine();
-                op = Convert.ToInt32(op2);
+                op = Convert.ToInt32(Console.ReadLine());
 
                 switch (op)
                 {

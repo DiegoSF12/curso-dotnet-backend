@@ -80,7 +80,7 @@ namespace curso_dotnet_backend
             double radiano = Convert.ToDouble(entrada);
             radiano = radiano * Math.PI / 180;
             radiano = Math.Cos(radiano);
-            Console.WriteLine($"O valor do coseno de {entrada} é igual a: {Math.Round(radiano,4)}");
+            Console.WriteLine($"O valor do coseno de {entrada} é igual a: {Math.Round(radiano, 4)}");
         }
 
         public static void Tangente()
@@ -90,7 +90,19 @@ namespace curso_dotnet_backend
             double radiano = Convert.ToDouble(entrada);
             radiano *= Math.PI / 180;
             radiano = Math.Tan(radiano);
-            Console.WriteLine($"O valor da tangente de {entrada} é igual a {Math.Round(radiano,4)}");
+            Console.WriteLine($"O valor da tangente de {entrada} é igual a {Math.Round(radiano, 4)}");
+        }
+
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="x"></param>
+        /// <param name="y"></param>
+        /// <returns></returns>
+        public static int Somar02(int x, int y)
+        {
+            return x + y;
         }
     }
 }

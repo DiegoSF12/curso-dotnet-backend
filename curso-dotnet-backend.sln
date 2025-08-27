@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "curso-dotnet-backend", "cur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "curso-dotnet-backend.Common", "curso-dotnet-backend.Common\curso-dotnet-backend.Common.csproj", "{5014130C-75F5-4B3F-BAB0-57631E93F5BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sistema-estacionamento", "sistema-estacionamento\sistema-estacionamento.csproj", "{E8D5E431-1AA1-4FCD-A0D2-B2B570DEF6A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{5014130C-75F5-4B3F-BAB0-57631E93F5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5014130C-75F5-4B3F-BAB0-57631E93F5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5014130C-75F5-4B3F-BAB0-57631E93F5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8D5E431-1AA1-4FCD-A0D2-B2B570DEF6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D5E431-1AA1-4FCD-A0D2-B2B570DEF6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D5E431-1AA1-4FCD-A0D2-B2B570DEF6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D5E431-1AA1-4FCD-A0D2-B2B570DEF6A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

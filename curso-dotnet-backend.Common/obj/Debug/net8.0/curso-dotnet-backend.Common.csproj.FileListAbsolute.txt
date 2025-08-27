@@ -1,0 +1,12 @@
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\curso-dotnet-backend.Common\bin\Debug\net8.0\curso-dotnet-backend.Common.deps.json
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\curso-dotnet-backend.Common\bin\Debug\net8.0\curso-dotnet-backend.Common.dll
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\curso-dotnet-backend.Common\bin\Debug\net8.0\curso-dotnet-backend.Common.pdb
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\curso-dotnet-backend.Common\obj\Debug\net8.0\curso-dotnet-backend.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\curso-dotnet-backend.Common\obj\Debug\net8.0\curso-dotnet-backend.Common.AssemblyInfoInputs.cache
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\curso-dotnet-backend.Common\obj\Debug\net8.0\curso-dotnet-backend.Common.AssemblyInfo.cs
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\curso-dotnet-backend.Common\obj\Debug\net8.0\curso-dotnet-backend.Common.csproj.CoreCompileInputs.cache
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\curso-dotnet-backend.Common\obj\Debug\net8.0\curso-dotnet-backend.Common.sourcelink.json
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\curso-dotnet-backend.Common\obj\Debug\net8.0\curso-dotnet-backend.Common.dll
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\curso-dotnet-backend.Common\obj\Debug\net8.0\refint\curso-dotnet-backend.Common.dll
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\curso-dotnet-backend.Common\obj\Debug\net8.0\curso-dotnet-backend.Common.pdb
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\curso-dotnet-backend.Common\obj\Debug\net8.0\ref\curso-dotnet-backend.Common.dll
