@@ -1,0 +1,15 @@
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\obj\Debug\net8.0\sistema-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\obj\Debug\net8.0\sistema-estacionamento.AssemblyInfoInputs.cache
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\obj\Debug\net8.0\sistema-estacionamento.AssemblyInfo.cs
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\obj\Debug\net8.0\sistema-estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\obj\Debug\net8.0\sistema-estacionamento.sourcelink.json
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\bin\Debug\net8.0\sistema-estacionamento.exe
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\bin\Debug\net8.0\sistema-estacionamento.deps.json
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\bin\Debug\net8.0\sistema-estacionamento.runtimeconfig.json
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\bin\Debug\net8.0\sistema-estacionamento.dll
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\bin\Debug\net8.0\sistema-estacionamento.pdb
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\obj\Debug\net8.0\sistema-estacionamento.dll
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\obj\Debug\net8.0\refint\sistema-estacionamento.dll
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\obj\Debug\net8.0\sistema-estacionamento.pdb
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\obj\Debug\net8.0\sistema-estacionamento.genruntimeconfig.cache
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\sistema-estacionamento\obj\Debug\net8.0\ref\sistema-estacionamento.dll

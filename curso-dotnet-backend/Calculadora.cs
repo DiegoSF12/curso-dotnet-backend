@@ -94,15 +94,5 @@ namespace curso_dotnet_backend
         }
 
 
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="x"></param>
-        /// <param name="y"></param>
-        /// <returns></returns>
-        public static int Somar02(int x, int y)
-        {
-            return x + y;
-        }
     }
 }
