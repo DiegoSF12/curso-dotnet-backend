@@ -5,28 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84721625-c5f5-4408-9373-6776d46797c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Calculadora.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/curso-dotnet-backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/curso-dotnet-backend.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/curso-dotnet-backend.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/curso-dotnet-backend.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/curso-dotnet-backend.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/curso-dotnet-backend.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/Debug/net8.0/curso-dotnet-backend.Common.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/Debug/net8.0/curso-dotnet-backend.Common.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/Debug/net8.0/curso-dotnet-backend.Common.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/Debug/net8.0/curso-dotnet-backend.Common.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/Debug/net8.0/curso-dotnet-backend.Common.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/Debug/net8.0/curso-dotnet-backend.Common.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/Debug/net8.0/curso-dotnet-backend.Common.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/Debug/net8.0/curso-dotnet-backend.Common.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/curso-dotnet-backend.Common.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/curso-dotnet-backend.Common.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/curso-dotnet-backend.Common.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/curso-dotnet-backend.Common.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-dotnet-backend.Common/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.curso-dotnet-backend.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.curso-dotnet-backend.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/ref/curso-dotnet-backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/ref/curso-dotnet-backend.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/refint/curso-dotnet-backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/refint/curso-dotnet-backend.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/curso-dotnet-backend.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/curso-dotnet-backend.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/curso-dotnet-backend.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/curso-dotnet-backend.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/curso-dotnet-backend.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../obj/Debug/net8.0/curso-dotnet-backend.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/net8.0/curso-dotnet-backend.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../obj/Debug/net8.0/curso-dotnet-backend.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/net8.0/curso-dotnet-backend.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../obj/Debug/net8.0/curso-dotnet-backend.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/net8.0/curso-dotnet-backend.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../obj/Debug/net8.0/curso-dotnet-backend.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/Debug/net8.0/curso-dotnet-backend.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/SistemaEstacionamento.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/SistemaEstacionamento.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/bin/Debug/net8.0/sistema-estacionamento.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/bin/Debug/net8.0/sistema-estacionamento.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/bin/Debug/net8.0/sistema-estacionamento.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/bin/Debug/net8.0/sistema-estacionamento.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/bin/Debug/net8.0/sistema-estacionamento.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/bin/Debug/net8.0/sistema-estacionamento.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/ref/sistema-estacionamento.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/ref/sistema-estacionamento.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/refint/sistema-estacionamento.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/refint/sistema-estacionamento.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/Debug/net8.0/sistema-estacionamento.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/sistema-estacionamento.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/sistema-estacionamento.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sistema-estacionamento/obj/sistema-estacionamento.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../sistema-estacionamento/obj/sistema-estacionamento.csproj.nuget.g.props" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,34 +60,34 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="30t34RnmSZImV38GGW8ldMbIUSZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.curso-dotnet-backend.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.curso-dotnet-backend.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="curso-dotnet-backend" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -98,6 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1754432851671</updated>
       <workItem from="1754432854021" duration="184000" />
+      <workItem from="1756420644094" duration="31000" />
     </task>
     <servers />
   </component>

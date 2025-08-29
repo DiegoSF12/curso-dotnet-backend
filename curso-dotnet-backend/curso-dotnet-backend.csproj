@@ -7,6 +7,6 @@
     <TargetFramework>net8.0</TargetFramework>
     <RootNamespace>curso_dotnet_backend</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
   </PropertyGroup>
 </Project>
