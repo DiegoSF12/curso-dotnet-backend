@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 
 namespace curso_dotnet_backend.models
@@ -8,18 +9,40 @@ namespace curso_dotnet_backend.models
     public class Pessoa
     {
         private string nome;
-        public  int idade { get; set; }
-        List<int> numeros;
+        private string _nome01;
+        private int _idade;
+        public string Nome01
+        {
+            get => _nome01.ToUpper(); //Body expression, serve para que possamos simplificar retornos e atribuições simples
+            set
+            {
+                if (value == "")
+                {
+                    throw new ArgumentException("O nome não pode ser vazio");
+                }
+                _nome01 = value;
+            }
+        }
+        public int Idade
+        {
+            get => _idade;
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException("A idade não pode ser menor que 0");
+                }
+                _idade = value;
+            }
+        }
+        List<int> numeros; 
 
 
         public void SetNome(string nome)
         {
             this.nome = nome;
         }
-        public string GetNome()
-        {
-            return this.nome;
-        }
+        public string GetNome() => nome; //Body expression, serve para que possamos simplificar retornos e atribuições simples
         public void SetNomeConsole()
         {
             Console.WriteLine("Digite o seu nome: ");

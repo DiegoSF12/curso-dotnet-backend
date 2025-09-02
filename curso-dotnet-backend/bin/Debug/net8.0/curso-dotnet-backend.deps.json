@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "curso-dotnet-backend/1.0.0": {
+        "dependencies": {
+          "curso-dotnet-backend.Common": "1.0.0"
+        },
         "runtime": {
           "curso-dotnet-backend.dll": {}
+        }
+      },
+      "curso-dotnet-backend.Common/1.0.0": {
+        "runtime": {
+          "curso-dotnet-backend.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "curso-dotnet-backend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "curso-dotnet-backend.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

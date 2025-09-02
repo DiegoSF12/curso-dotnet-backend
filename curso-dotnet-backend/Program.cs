@@ -21,7 +21,10 @@ namespace curso_dotnet_backend
             // pessoa.SetNomeConsole();
             // Console.WriteLine($"Nome digitado via console: {pessoa.GetNome()}");
             Console.Clear();
-            pessoa.RodarLista();
+            //pessoa.RodarLista();
+            pessoa.Nome01 = "Diego";
+            pessoa.Idade = -1;
+            Console.WriteLine($"{pessoa.Nome01}");
         }
     }
 }
