@@ -8,6 +8,16 @@ namespace curso_dotnet_backend.models
 {
     public class Pessoa
     {
+        public Pessoa(string nome, int idade)
+        {
+            Nome01 = nome;
+            Idade = idade;
+        }
+        public Pessoa()
+        {
+            
+        }
+
         private string nome;
         private string _nome01;
         private int _idade;
