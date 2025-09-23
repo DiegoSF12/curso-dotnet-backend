@@ -9,35 +9,65 @@ namespace curso_dotnet_backend
 {
     public class Program
     {
-        public static void Main(String[] args)
+        public static void Main(String[] args)  
         {
-            Queue<string> nFila = new Queue<string>();
-            bool rodar = true;
-            while (rodar)
+            Console.Clear();
+            Tuplas lerArquivo = new Tuplas();   
+            var (sucesso, linhas, quantidadeLinhas) = lerArquivo.LerArquivo(@"C:\Users\TI\Documents\Diego\Lorem ipsum dolor sit amet consecte.txt");
+            if (sucesso)
             {
-                Console.WriteLine("Digite o nome a ser guardado: ");
-                string nomeDigitado = Console.ReadLine();
-                nFila.Enqueue(nomeDigitado);
-                if (nFila.Count > 4)
+                Console.WriteLine($"Quantidade de linhas: {quantidadeLinhas}");
+                foreach (string linha in linhas)
                 {
-                    rodar = false;
+                    Console.WriteLine(linha);
                 }
             }
-            foreach (string nome in nFila)
-            {
-                Console.WriteLine($"Nome: {nome}");
+            else {
+                Console.WriteLine("Não foi possivel ler o arquivo");
             }
-            Console.WriteLine("Removendo os integrantes da fila pela ordem FIFO");
-            while (nFila.Count > 0)
-            {
-                Console.WriteLine($"Veja a nova lista");
-                foreach (string nome in nFila)
-                {
-                    Console.Clear();
-                    nFila.Dequeue();
-                    Console.WriteLine($"Nome: {nome}");
-                }
-            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            // Queue<string> nFila = new Queue<string>();
+            // bool rodar = true;
+            // while (rodar)
+            // {
+            //     Console.WriteLine("Digite o nome a ser guardado: ");
+            //     string nomeDigitado = Console.ReadLine();
+            //     nFila.Enqueue(nomeDigitado);
+            //     if (nFila.Count > 4)
+            //     {
+            //         rodar = false;
+            //     }
+            // }
+            // foreach (string nome in nFila)
+            // {
+            //     Console.WriteLine($"Nome: {nome}");
+            // }
+            // Console.WriteLine("Removendo os integrantes da fila pela ordem FIFO");
+            // while (nFila.Count > 0)
+            // {
+            //     Console.WriteLine($"Veja a nova lista");
+            //     foreach (string nome in nFila)
+            //     {
+            //         Console.Clear();
+            //         nFila.Dequeue();
+            //         Console.WriteLine($"Nome: {nome}");
+            //     }
+            // }
 
 
 
