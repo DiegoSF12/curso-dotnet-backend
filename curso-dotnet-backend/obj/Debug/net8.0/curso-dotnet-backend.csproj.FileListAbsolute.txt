@@ -32,3 +32,4 @@ C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\curso-dotne
 C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.pdb
 C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\curso-dotnet-backend\obj\Debug\net8.0\curso-dotnet-backend.genruntimeconfig.cache
 C:\Users\lordg\OneDrive\Documentos\Arquivos T.I\curso-dotnet-backend\curso-dotnet-backend\obj\Debug\net8.0\ref\curso-dotnet-backend.dll
+C:\Users\TI\Documents\Diego\curso-dotnet-backend\curso-dotnet-backend\bin\Debug\net8.0\Newtonsoft.Json.dll

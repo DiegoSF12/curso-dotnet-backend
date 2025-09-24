@@ -2,6 +2,9 @@
   <ItemGroup>
     <ProjectReference Include="..\curso-dotnet-backend.Common\curso-dotnet-backend.Common.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>

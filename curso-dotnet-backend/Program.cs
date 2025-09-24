@@ -3,28 +3,38 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using curso_dotnet_backend.models;
+using Newtonsoft.Json;
 
 
 namespace curso_dotnet_backend
 {
     public class Program
     {
-        public static void Main(String[] args)  
+        public static void Main(String[] args)
         {
-            Console.Clear();
-            Tuplas lerArquivo = new Tuplas();   
-            var (sucesso, linhas, quantidadeLinhas) = lerArquivo.LerArquivo(@"C:\Users\TI\Documents\Diego\Lorem ipsum dolor sit amet consecte.txt");
-            if (sucesso)
-            {
-                Console.WriteLine($"Quantidade de linhas: {quantidadeLinhas}");
-                foreach (string linha in linhas)
-                {
-                    Console.WriteLine(linha);
-                }
-            }
-            else {
-                Console.WriteLine("Não foi possivel ler o arquivo");
-            }
+            Vendas v1 = new Vendas(1, "Mouse Ajazz AJ139", 160.00M);
+            string objetoSerializado = JsonConvert.SerializeObject(v1, Formatting.Indented);
+            Console.WriteLine(objetoSerializado);
+            File.WriteAllText("arquivos/relatorio.json", objetoSerializado);
+
+
+
+
+
+        //     Console.Clear();
+            //     Tuplas lerArquivo = new Tuplas();   
+            //     var (sucesso, linhas, quantidadeLinhas) = lerArquivo.LerArquivo(@"C:\Users\TI\Documents\Diego\Lorem ipsum dolor sit amet consecte.txt");
+            //     if (sucesso)
+            //     {
+            //         Console.WriteLine($"Quantidade de linhas: {quantidadeLinhas}");
+            //         foreach (string linha in linhas)
+            //         {
+            //             Console.WriteLine(linha);
+            //         }
+            //     }
+            //     else {
+            //         Console.WriteLine("Não foi possivel ler o arquivo");
+            //     }
 
 
 
