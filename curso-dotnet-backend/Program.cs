@@ -12,16 +12,54 @@ namespace curso_dotnet_backend
     {
         public static void Main(String[] args)
         {
-            Vendas v1 = new Vendas(1, "Mouse Ajazz AJ139", 160.00M);
-            string objetoSerializado = JsonConvert.SerializeObject(v1, Formatting.Indented);
-            Console.WriteLine(objetoSerializado);
-            File.WriteAllText("arquivos/relatorio.json", objetoSerializado);
+            Carros.MenuCarros();
 
 
 
+            // Carros carro01 = new Carros();
+            // Carros carro02 = new Carros();
+            // Carros carro03 = new Carros();
+            // Carros carro04 = new Carros();
+            // Carros carro05 = new Carros();
+            // Carros carro06 = new Carros();
+
+            // carro01.Id = 7654;
+            // carro02.Id = 8754;
+            // carro03.Id = 9898;
+            // carro04.Id = 7807;
+            // carro05.Id = 1265;
+            // carro06.Id = 9876;
+
+            // carro01.Marca = "Volkwagen";
+            // carro02.Marca = "Fiat";
+            // carro03.Marca = "Chevrolet";
+            // carro04.Marca = "Ford";
+            // carro05.Marca = "Peugeot";
+            // carro06.Marca = "Renault";
+
+            // carro01.Modelo = "Gol";
+            // carro02.Modelo = "Palio";
+            // carro03.Modelo = "Vectra";
+            // carro04.Modelo = "Fiesta";
+            // carro05.Modelo = "208";
+            // carro06.Modelo = "Sandero";
+
+            // List<Carros> listCarros = new List<Carros>();
+            // listCarros.Add(carro01);
+            // listCarros.Add(carro02);
+            // listCarros.Add(carro03);
+            // listCarros.Add(carro04);
+            // listCarros.Add(carro05);
+            // listCarros.Add(carro06);
+
+            // string obejetoSerializado = JsonConvert.SerializeObject(listCarros, Formatting.Indented);
+
+            // Console.WriteLine(obejetoSerializado);
+
+            // File.WriteAllText("arquivos/relatorioCarros.json", obejetoSerializado);
 
 
-        //     Console.Clear();
+            //     Console.Clear();
             //     Tuplas lerArquivo = new Tuplas();   
             //     var (sucesso, linhas, quantidadeLinhas) = lerArquivo.LerArquivo(@"C:\Users\TI\Documents\Diego\Lorem ipsum dolor sit amet consecte.txt");
             //     if (sucesso)

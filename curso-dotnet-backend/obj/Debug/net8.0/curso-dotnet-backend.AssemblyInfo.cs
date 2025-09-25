@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("curso-dotnet-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67d4a78084fd6052b3b6950def7a48549b82611d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31ee1264e108885d096abb23a936a5071db1bc77")]
 [assembly: System.Reflection.AssemblyProductAttribute("curso-dotnet-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("curso-dotnet-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

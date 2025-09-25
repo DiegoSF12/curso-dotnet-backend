@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Mouse Ajazz AJ139",
+    "Preco": 160.00
+  },
+  {
+    "Id": 2,
+    "Produto": "Teclado Aula Hero 84 HE",
+    "Preco": 380.00
+  }
+]

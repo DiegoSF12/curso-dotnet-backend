@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 7654,
+    "Marca": "Gol",
+    "Modelo": null
+  },
+  {
+    "Id": 8754,
+    "Marca": "Palio",
+    "Modelo": null
+  },
+  {
+    "Id": 9898,
+    "Marca": "Vectra",
+    "Modelo": null
+  },
+  {
+    "Id": 7807,
+    "Marca": "Fiesta",
+    "Modelo": null
+  },
+  {
+    "Id": 1265,
+    "Marca": "208",
+    "Modelo": null
+  },
+  {
+    "Id": 9876,
+    "Marca": "Sandero",
+    "Modelo": null
+  }
+]
