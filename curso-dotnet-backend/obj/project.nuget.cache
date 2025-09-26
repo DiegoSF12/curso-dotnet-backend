@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zRINFNeMvP0=",
+  "dgSpecHash": "nji7X/CiqYA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\TI\\Documents\\Diego\\curso-dotnet-backend\\curso-dotnet-backend\\curso-dotnet-backend.csproj",
+  "projectFilePath": "C:\\Users\\lordg\\Documents\\Projetos\\curso-dotnet-backend\\curso-dotnet-backend\\curso-dotnet-backend.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\TI\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+    "C:\\Users\\lordg\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
   ],
   "logs": []
 }

@@ -12,7 +12,7 @@ namespace curso_dotnet_backend
     {
         public static void Main(String[] args)
         {
-            Carros.MenuCarros();
+            Carros.CadastrarVeiculos();
 
 
 
